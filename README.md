@@ -74,8 +74,5 @@ Ce TP a permis de mettre en pratique les concepts fondamentaux de React, notamme
 ---
 ---
 
-## **Auteur**
-- [HICHAM ELOTMANI](https://github.com/Elom-DEV)
 
----
 
